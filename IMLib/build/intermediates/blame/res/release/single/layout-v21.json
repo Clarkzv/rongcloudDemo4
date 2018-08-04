@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\workspace\\rongcloudDemo\\IMLib\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Jon\\.android\\build-cache\\041c32da187424a108d1a37858aa5786ec76ed7e\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\workspace\\rongcloudDemo\\IMLib\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Jon\\.android\\build-cache\\041c32da187424a108d1a37858aa5786ec76ed7e\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\workspace\\rongcloudDemo\\IMLib\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Jon\\.android\\build-cache\\041c32da187424a108d1a37858aa5786ec76ed7e\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "E:\\workspace\\rongcloudDemo\\IMLib\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Jon\\.android\\build-cache\\041c32da187424a108d1a37858aa5786ec76ed7e\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    }
+]
